@@ -1,0 +1,22 @@
+{
+  "name": "pendu",
+  "version": "1.0.0",
+  "description": "jeux du pendu en console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bertyn99/pendu-en-console.git"
+  },
+  "author": "Boulikou Bertyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bertyn99/pendu-en-console/issues"
+  },
+  "homepage": "https://github.com/bertyn99/pendu-en-console#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
