@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/bertyn99/pendu-en-console#readme",
   "dependencies": {
+    "chalk": "^1.0.0",
     "readline-sync": "^1.4.10"
   }
 }
